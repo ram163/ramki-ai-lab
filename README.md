@@ -1,6 +1,6 @@
 ## Architecture
 
-![RFQ Agent  diagram for RFQ Agent.png
+rfq-agent-architecture.png
 
 This architecture demonstrates the flow from customer requirements through AI-driven qualification and recommendation generation.
 
