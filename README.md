@@ -1,6 +1,8 @@
 ## Architecture
 
-![RFQ Agent Architecture]((rfq-agent-architecture.png)This architecture demonstrates the flow from customer requirements through AI-driven qualification and recommendation generation.
+rfq-agent-architecture.png
+
+This architecture demonstrates the flow from customer requirements through AI-driven qualification and recommendation generation.
 
 # Ramki AI Lab
 
