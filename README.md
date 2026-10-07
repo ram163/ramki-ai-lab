@@ -1,3 +1,7 @@
+## Architecture
+
+![RFQ Agent Architecture](Architecture diagram
+
 # Ramki AI Lab
 
 AI-driven solutions for sales engineering, customer support, and semiconductor business process automation.
