@@ -7,9 +7,10 @@ AI-driven solutions for sales engineering, customer support, and semiconductor b
 This repository contains concepts, workflows, and prototypes focused on applying AI and automation to technical sales and field application engineering activities.
 
 ## Architecture
+The RFQ Assessment Agent supports opportunity qualification by evaluating customer requirements, technical risks, and recommended actions.
 
 ![RFQ Agent Architecture](rfq-agent-architecture.png)
-The RFQ Assessment Agent supports opportunity qualification by evaluating customer requirements, technical risks, and recommended actions.
+
 This architecture demonstrates the flow from customer requirements through AI-driven qualification and recommendation generation.
 
 ## Areas of Interest
